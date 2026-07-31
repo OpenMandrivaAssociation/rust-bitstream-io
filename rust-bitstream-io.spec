@@ -5,8 +5,8 @@
 %global crate bitstream-io
 
 Name:           rust-%{crate}
-Version:        0.8.4
-Release:        2%{?dist}
+Version:        4.10.0
+Release:        1%{?dist}
 Summary:        Library for reading/writing un-aligned values from/to streams
 
 # Upstream license specification: MIT/Apache-2.0
